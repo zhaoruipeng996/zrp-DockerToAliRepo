@@ -9,4 +9,5 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #minio/minio
 #nginx
-redis:latest
+#redis:latest
+dockerhy/rk3588-toolchain
