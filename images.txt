@@ -8,6 +8,6 @@
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
-kubesphere/ks-installer:v3.4.1
-
+#kubesphere/ks-installer:v3.4.1
+dperson/samba
 
