@@ -12,4 +12,5 @@
 #redis:latest
 #dockerhy/rk3588-toolchain
 #dockurr/samba
-tiangolo/nginx-rtmp
+#tiangolo/nginx-rtmp
+python:3.9-slim
