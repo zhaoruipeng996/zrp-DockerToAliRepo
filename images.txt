@@ -14,4 +14,5 @@
 #dockurr/samba
 #tiangolo/nginx-rtmp
 #python:3.9-slim
-ollama/ollama
+#ollama/ollama
+ghcr.io/ollama-webui/ollama-webui:main
