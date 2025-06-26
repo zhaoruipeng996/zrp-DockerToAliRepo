@@ -3,7 +3,7 @@ mysql:8.0
 apache/rocketmq:4.8.0
 mongo:4.4
 docker.elastic.co/elasticsearch/elasticsearch:7.6.1
-docker.elastic.co/elasticsearch/elasticsearch:7.6.1
+docker.elastic.co/kibana/kibana:7.6.1
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
